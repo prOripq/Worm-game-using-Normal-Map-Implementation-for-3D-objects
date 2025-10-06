@@ -26,8 +26,5 @@ The goal is to visualize how normal maps enhance lighting realism on low-poly 3D
 | Image Loading | stb_image.h |
 | Build System | Makefile or Visual Studio |
 
----
-
-## 🗂️ Project Structure
 
 
