@@ -4,7 +4,6 @@
 This project is a **3D Worm Game** prototype demonstrating **Normal Mapping** in OpenGL.  
 It uses **GLFW**, **GLM**, and **stb_image** to render a textured worm model with both diffuse and normal maps.  
 
-The goal is to visualize how normal maps enhance lighting realism on low-poly 3D surfaces.
 
 ---
 
