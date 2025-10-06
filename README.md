@@ -29,3 +29,17 @@ The goal is to visualize how normal maps enhance lighting realism on low-poly 3D
 ---
 
 ## 🗂️ Project Structure
+
+OpenGl2.0/
+├── include/
+│ ├── glm/
+│ └── stb_image.h
+├── resources/
+│ ├── worm_diffuse.png
+│ └── worm_normal.png
+├── shaders/
+│ ├── vertex.glsl
+│ └── fragment.glsl
+├── main.cpp
+├── Makefile
+└── README.md
